@@ -1,0 +1,30 @@
+{
+  "background_color": "#071a6b",
+  "description": "The opposite-word game show for 4th & 5th graders.",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "192x192",
+      "src": "icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "180x180",
+      "src": "icon-180.png",
+      "type": "image/png"
+    }
+  ],
+  "name": "Antonyms Jeopardy",
+  "scope": "./",
+  "short_name": "Antonyms",
+  "start_url": "./index.html",
+  "theme_color": "#071a6b"
+}
